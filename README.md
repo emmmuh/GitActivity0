@@ -7,4 +7,4 @@ in order to force a conflict.
 
 I am adding something while in the middle of merging.
 
-Adding a comment for the activity.
+Changing to make a conflict.
