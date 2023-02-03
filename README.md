@@ -7,4 +7,4 @@ in order to force a conflict.
 
 I am adding something while in the middle of merging.
 
-Changing to make a conflict.
+Creating a conflict.
