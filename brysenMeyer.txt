@@ -1,1 +1,1 @@
-Test for GitActivity1
+This file has been changed for merge conflict activity
