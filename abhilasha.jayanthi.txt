@@ -1,1 +1,2 @@
 I am adding a file for step 2.2 of Activity 1.
+I am adding another different line to this file to create a conflict for Activity 3.
